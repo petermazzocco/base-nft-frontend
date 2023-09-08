@@ -7,7 +7,7 @@ View Tutorial:
 Please clone this repo by running the following command:
 
 ```bash
-git clone ""
+git clone "https://github.com/petermazzocco/base-nft-frontend.git"
 ```
 
 After cloning, install packages
